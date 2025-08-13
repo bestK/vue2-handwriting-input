@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-npm install @your-scope/vue2-handwriting-input
+npm install vue2-handwriting-input
 ```
 
 ## 使用方法
@@ -23,7 +23,7 @@ npm install @your-scope/vue2-handwriting-input
 
 ```javascript
 import Vue from 'vue'
-import HandwritingInput from '@your-scope/vue2-handwriting-input'
+import HandwritingInput from 'vue2-handwriting-input'
 
 Vue.use(HandwritingInput)
 ```
@@ -31,7 +31,7 @@ Vue.use(HandwritingInput)
 ### 局部注册
 
 ```javascript
-import { HandwritingInput } from '@your-scope/vue2-handwriting-input'
+import { HandwritingInput } from 'vue2-handwriting-input'
 
 export default {
   components: {

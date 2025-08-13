@@ -1,5 +1,5 @@
 {
-    "name": "@bestk/vue2-handwriting-input",
+    "name": "vue2-handwriting-input",
     "version": "1.0.0",
     "description": "Vue2手写输入识别组件，支持中文手写识别",
     "main": "dist/vue2-handwriting-input.umd.min.js",
